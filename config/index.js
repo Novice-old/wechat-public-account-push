@@ -50,7 +50,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
+      {"type": "生日", "name": "测试", "year": "1996", "date": "01-01"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
@@ -66,13 +66,15 @@ export const config = {
     LOVE_DATE: "2015-05-01",
     // 结婚纪念日
     MARRY_DATE: "2020-01-04",
+    //生日倒计时
+    birthday_message.DATA:"2022-09-03
 
 
     /** 每日一言 */
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "动画"
 
 
     }
