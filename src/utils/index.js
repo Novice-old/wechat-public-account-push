@@ -50,6 +50,6 @@ export const sortBirthdayTime = (list) => {
     }
   })
   return list.sort((a, b) =>
-    a.diffDay > b.diffDay ? 1 : -1
+    a.diffDay > b.diffDay ? 1 : 0
   );
 };
