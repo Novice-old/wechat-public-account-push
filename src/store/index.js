@@ -9,7 +9,7 @@ export const TYPE_LIST = [
     type: 'b'
   },
   {
-    name: '游戏',
+    name: '表白',
     type: 'c'
   },
   {
@@ -21,7 +21,7 @@ export const TYPE_LIST = [
     type: 'e'
   },
   {
-    name: '网络',
+    name: '爱情',
     type: 'f'
   },
   {
