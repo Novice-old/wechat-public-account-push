@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "51f7392bb0bb7c1c977f7dd81073163a",
 
     // 模板消息id
-    TEMPLATE_ID: "tYQcDcW4b6YjP05DtF__FjBkF5jf6Md1zL2088ybGp0",
+    TEMPLATE_ID: "_97VF04e8GxRy1Cpl1uNQiS8aVZ1i619DEBYpk0Eqsw",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
 
@@ -50,7 +50,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
+      {"type": "生日", "name": "老婆", "year": "2022", "date": "09-03"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
