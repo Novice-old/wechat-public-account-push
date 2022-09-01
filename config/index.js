@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "51f7392bb0bb7c1c977f7dd81073163a",
 
     // 模板消息id
-    TEMPLATE_ID: "pCcZd_CbnnorUbL8sUkx8ucerxLcF8PPiJBio9mdn9k",
+    TEMPLATE_ID: "k02KeC3UEas9kcwwXIM_GwxdGWD7RjM9MfyaHPKFxq8",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
 
@@ -70,7 +70,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "爱情"
+    LITERARY_PREFERENCE: "表白"
 
 
     }
